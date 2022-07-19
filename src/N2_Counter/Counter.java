@@ -1,4 +1,4 @@
-package N2_N3_Counter;
+package N2_Counter;
 
 public class Counter {
 
@@ -11,5 +11,5 @@ public class Counter {
     public static int getCount() {
         return count;
     }
-
+//
 }
